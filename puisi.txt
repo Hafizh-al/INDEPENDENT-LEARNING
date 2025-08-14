@@ -1,0 +1,13 @@
+Latihan 1: Tampilkan Semua Uppercase
+Buat file puisi.txt. Tulis program yang:
+-. Meminta pengguna memasukkan nama file (puisi.txt).
+/. Membaca file tersebut baris per baris.
+0. Mencetak setiap baris ke layar dalam format HURUF KAPITAL SEMUA.
+
+nama_file = input("Masukkan nama file: ")
+try:
+    with open(nama_file) as f:
+        for baris in f:
+            print(baris.strip().upper())
+except FileNotFoundError:
+    print("File tidak ditemukan.")
