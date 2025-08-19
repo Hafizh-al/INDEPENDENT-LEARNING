@@ -1,0 +1,4 @@
+Belajar Python itu menyenangkan
+File handling itu penting
+Jadi , nikmatilah pembelajaran yang baik dengan baik ! oke !
+Python mudah dipelajari!
