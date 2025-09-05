@@ -1,0 +1,15 @@
+Kenapa Ini LEBIH BAGUS dari Sebelumnya
+
+✅ Latihan super praktis: bisa langsung dipakai di kerja atau kehidupan sehari-hari.
+✅ Mudah: dijelaskan per baris seperti ke anak kecil.
+✅ Memuat skill masa depan: data analysis, keamanan, chatbot, manajemen waktu.
+✅ Bikin kamu melek AI & tech: ini pondasi untuk bikin AI, bukan cuma pakai AI.
+✅ Bisa bikin kamu unggul: karena kamu mengerti dasar logika pemrograman.
+
+💡 IDE NEXT STEP:
+
+Satukan semua latihan ini jadi 1 Proyek All-in-One: aplikasi kasir, absensi, chatbot, analisis teks, dan pengingat.
+
+Bikin Tampilan GUI (Aplikasi Windows) pakai Tkinter → biar berasa bikin software beneran.
+
+Lanjut ke otomatisasi kerja: scrap data, kirim email otomatis, dan banyak lagi.
