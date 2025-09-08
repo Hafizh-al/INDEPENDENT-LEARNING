@@ -1,0 +1,26 @@
+{
+  "kontak": {
+    "Muhammad Daffa Al Hafizh": "082314029196"
+  },
+  "transaksi": [],
+  "menu_makanan": {
+    "Nasi Goreng": {
+      "harga": 20000,
+      "stok": 5
+    },
+    "Mie Ayam": {
+      "harga": 15000,
+      "stok": 3
+    },
+    "Es Teh": {
+      "harga": 5000,
+      "stok": 10
+    }
+  },
+  "nilai": {},
+  "faq": {
+    "harga": "Harga mulai dari Rp50.000.",
+    "buka": "Kami buka setiap hari pukul 08:00 - 20:00.",
+    "lokasi": "Kami ada di Jakarta Pusat."
+  }
+}
